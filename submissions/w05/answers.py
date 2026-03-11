@@ -79,4 +79,3 @@ nilai harapannya?"""
 def q12() -> float:
     """[Numeric] Jika (X) = 4, berapakah (3X+5)?"""
     return 12.0
-
