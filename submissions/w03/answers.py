@@ -85,3 +85,4 @@ def q12() -> float:
     """[Numeric] Berapa probabilitas sistem seri dengan 10 komponen identik (masing-masing
 R = 0,99) tetap berfungsi? (Gunakan 3 desimal)"""
     return 0.904
+
