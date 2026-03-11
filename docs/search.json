@@ -22,141 +22,141 @@
   {
     "objectID": "weeks/w01/quiz.html",
     "href": "weeks/w01/quiz.html",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "",
     "text": "2.1 Cara mengerjakan",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#cara-mengerjakan",
     "href": "weeks/w01/quiz.html#cara-mengerjakan",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "",
     "text": "Jawab hanya dengan mengisi fungsi q01() s.d. q12() di submissions/w01/answers.py.\nKamu boleh memakai Python untuk menghitung, misalnya lewat submissions/w01/laporan.qmd.\nJangan ubah nama fungsi.\n\n\n2.1.1 Format jawaban\n\nT/F: kembalikan True (Benar) atau False (Salah).\nMC: kembalikan huruf \"A\", \"B\", \"C\", atau \"D\".\nNumeric: kembalikan bilangan int atau float (pakai titik . untuk desimal).",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q01-tf",
     "href": "weeks/w01/quiz.html#q01-tf",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.2 Q01 (T/F)",
     "text": "2.2 Q01 (T/F)\nDalam model probabilistik, output yang sama akan selalu dihasilkan dari input yang sama terlepas dari variasi acak.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q02-tf",
     "href": "weeks/w01/quiz.html#q02-tf",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.3 Q02 (T/F)",
     "text": "2.3 Q02 (T/F)\nRuang sampel dari sebuah eksperimen acak harus mencakup semua hasil yang mungkin terjadi tanpa tumpang tindih.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q03-tf",
     "href": "weeks/w01/quiz.html#q03-tf",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.4 Q03 (T/F)",
     "text": "2.4 Q03 (T/F)\nProbabilitas empiris mendekati probabilitas teoretis ketika jumlah percobaan mendekati tak hingga.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q04-mc",
     "href": "weeks/w01/quiz.html#q04-mc",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.5 Q04 (MC)",
     "text": "2.5 Q04 (MC)\nManakah yang merupakan contoh variabel acak dalam sistem STI?\n\nA) Kapasitas total hard disk 1TB.\nB) Jumlah core pada prosesor Intel i7.\nC) Waktu yang dibutuhkan untuk merespons query database.\nD) Jumlah bit dalam satu byte.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q05-mc",
     "href": "weeks/w01/quiz.html#q05-mc",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.6 Q05 (MC)",
-    "text": "2.6 Q05 (MC)\nJika sebuah ruang sampel terdiri dari 4 kejadian yang memiliki peluang sama, maka probabilitas satu kejadian adalah:\nMinggu 02: Kerangka Probabilitas dan Operasi Kejadian Minggu kedua memperdalam struktur matematika melalui teori himpunan. Pemahaman tentang irisan, gabungan, dan komplemen sangat krusial dalam merancang logika sistem informasi yang tangguh. Bank Soal Mingguan Pertanyaan Konseptual\n\nA) 0,5\nB) 0,25\nC) 0,75\nD) 1,0",
+    "text": "2.6 Q05 (MC)\nJika sebuah ruang sampel S terdiri dari 4 kejadian yang memiliki peluang sama, maka probabilitas satu kejadian adalah:\n\nA) 0,5\nB) 0,25\nC) 0,75\nD) 1,0",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q06-mc",
     "href": "weeks/w01/quiz.html#q06-mc",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.7 Q06 (MC)",
     "text": "2.7 Q06 (MC)\nKejadian yang mustahil terjadi memiliki nilai probabilitas sebesar:\n\nA) 0\nB) 1\nC) -1\nD) 0,5",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q07-mc",
     "href": "weeks/w01/quiz.html#q07-mc",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.8 Q07 (MC)",
     "text": "2.8 Q07 (MC)\nSekumpulan hasil eksperimen yang merupakan subset dari ruang sampel disebut:\n\nA) Populasi.\nB) Parameter.\nC) Kejadian (Event).\nD) Konstanta.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q08-numeric",
     "href": "weeks/w01/quiz.html#q08-numeric",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.9 Q08 (Numeric)",
     "text": "2.9 Q08 (Numeric)\nBerapa jumlah elemen dalam ruang sampel jika kita melempar dua buah dadu bersisi enam?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q09-numeric",
     "href": "weeks/w01/quiz.html#q09-numeric",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.10 Q09 (Numeric)",
     "text": "2.10 Q09 (Numeric)\nJika probabilitas sebuah link internet mati adalah 0,01, berapa probabilitas link tersebut hidup?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q10-numeric",
     "href": "weeks/w01/quiz.html#q10-numeric",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.11 Q10 (Numeric)",
     "text": "2.11 Q10 (Numeric)\nBerapa banyak susunan berbeda yang bisa dibuat dari kata “DATA”?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q11-numeric",
     "href": "weeks/w01/quiz.html#q11-numeric",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.12 Q11 (Numeric)",
     "text": "2.12 Q11 (Numeric)\nJika sebuah server memiliki probabilitas uptime 0,95, berapa probabilitas server tersebut downtime dalam satu periode?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
     "objectID": "weeks/w01/quiz.html#q12-numeric",
     "href": "weeks/w01/quiz.html#q12-numeric",
-    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi.pdf)",
+    "title": "2  Quiz w01 — Minggu 01 (soal dari strategi2.pdf)",
     "section": "2.13 Q12 (Numeric)",
     "text": "2.13 Q12 (Numeric)\nDalam simulasi 1000 kali login, jika 20 kali gagal, berapa frekuensi relatif kegagalan tersebut?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi.pdf)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quiz w01 — Minggu 01 (soal dari strategi2.pdf)</span>"
     ]
   },
   {
