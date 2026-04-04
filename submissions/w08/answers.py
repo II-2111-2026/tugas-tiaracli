@@ -32,7 +32,7 @@ a) 0,9
 b) 0,1
 c) 0,2
 d) 0,5"""
-    return "B"
+    return "C"
 
 def q05() -> str:
     """[MC] Variansi dari variabel acak  didefinisikan sebagai:
