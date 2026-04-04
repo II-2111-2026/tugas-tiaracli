@@ -48,7 +48,7 @@ A) PMF.
 B) PDF.
 C) CDF.
 D) MGF."""
-    return "A"
+    return "C"
 
 def q07() -> str:
     """[MC] Simpangan baku () adalah:
@@ -65,7 +65,7 @@ def q08() -> float:
 
 def q09() -> float:
     """[Numeric] Hitung (X) untuk variabel pada soal nomor 8."""
-    return 0.4898979485566356
+    return 0.24
 
 def q10() -> float:
     """[Numeric] Jika E[X] = 10 dan E[X2] = 116, berapakah variansinya?"""
@@ -78,4 +78,4 @@ nilai harapannya?"""
 
 def q12() -> float:
     """[Numeric] Jika (X) = 4, berapakah (3X+5)?"""
-    return 12.0
+    return 36.0
