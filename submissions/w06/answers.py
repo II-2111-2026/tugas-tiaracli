@@ -58,7 +58,7 @@ A) Binomial.
 B) Poisson.
 C) Geometrik.
 D) Eksponensial."""
-    return "C"
+    return "B"
 
 def q08() -> float:
     """[Numeric] Jika X Bn(4,0,5), hitung P(X = 2)."""
