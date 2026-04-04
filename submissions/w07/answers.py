@@ -82,3 +82,4 @@ def q12() -> float:
     """[Numeric] Pada distribusi Normal Standar, berapakah nilai P( > 3) mendekati?
 (Gunakan 4 desimal)"""
     return 0.0013
+
