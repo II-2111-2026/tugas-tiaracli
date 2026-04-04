@@ -80,4 +80,3 @@ def q12() -> float:
     """[Numeric] Jika rata-rata kedatangan paket adalah 5 per ms, berapakah variansi jumlah
 paket per ms?"""
     return 5
-
