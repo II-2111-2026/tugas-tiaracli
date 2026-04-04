@@ -74,9 +74,10 @@ def q10() -> float:
 
 def q11() -> float:
     """[Numeric] Jika = 0, , = 0,  dan = 0, , hitung  menggunakan Hukum Probabilitas Total."""
-    return 0.25
+    return 0.49
 
 def q12() -> float:
     """[Numeric] Jika rata-rata kedatangan paket adalah 5 per ms, berapakah variansi jumlah
 paket per ms?"""
     return 5
+
