@@ -49,7 +49,7 @@ A) Keputusan yang benar (Power).
 B) Galat Tipe I.
 C) Galat Tipe II.
 D) Signifikansi."""
-    return "B"
+    return "A"
 
 def q07() -> str:
     """[MC] Tingkat signifikansi yang umum digunakan dalam penelitian adalah:
