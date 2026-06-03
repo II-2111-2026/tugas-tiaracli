@@ -81,4 +81,3 @@ berapakah probabilitas marginal P(X = 1)?"""
 def q12() -> float:
     """[Numeric] Jika X dan memiliki korelasi 1 dan (X) = 4, berapakah (X+X)?"""
     raise 16.0
-
