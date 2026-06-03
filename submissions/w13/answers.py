@@ -12,19 +12,19 @@ Format jawaban:
 from __future__ import annotations
 def q01() -> bool:
     """[T/F] Garis regresi meminimalkan jumlah total selisih absolut antara data dan garis."""
-    raise False
+    return False
 
 def q02() -> bool:
     """[T/F] Nilai
 R2
 sebesar 0,85 berarti 85% variasi pada variabel dependen dapat dijelaskan
 oleh variabel independen."""
-    raise True
+    return True
 
 def q03() -> bool:
     """[T/F] Regresi linear berganda menggunakan lebih dari satu variabel independen untuk
 memprediksi satu variabel dependen."""
-    raise True
+    return True
 
 def q04() -> str:
     """[MC] Dalam persamaan = +X, merepresentasikan:
@@ -33,7 +33,7 @@ A) Intersep.
 B) Kemiringan (slope).
 C) Varians.
 D) Galat."""
-    raise "B"
+    return "B"
 
 def q05() -> str:
     """[MC] Jika korelasi = −0,9, maka hubungan antara kedua variabel adalah:
@@ -42,7 +42,7 @@ A) Sangat lemah.
 B) Sangat kuat dan negatif.
 C) Tidak ada hubungan.
 D) Positif."""
-    raise "B"
+    return "B"
 
 def q06() -> str:
     """[MC] Manakah nilai
@@ -53,7 +53,7 @@ A) 0,99
 B) 0,50
 C) 0,00
 D) -1,00"""
-    raise "C"
+    return "C"
 
 def q07() -> str:
     """[MC] Titik di mana garis regresi memotong sumbu disebut:
@@ -62,26 +62,26 @@ A) Slope.
 B) Intersep.
 C) Origin.
 D) Outlier."""
-    raise "B"
+    return "B"
 
 def q08() -> float:
     """[Numeric] Jika persamaan regresi adalah = 5+2X, berapakah nilai prediksi untuk
 X = 10?"""
-    raise 25.0
+    return 25.0
 
 def q09() -> float:
     """[Numeric] Jika R2 = 0,64, berapakah nilai korelasi (ambil nilai positif)?"""
-    raise 0.8
+    return 0.8
 
 def q10() -> float:
     """[Numeric] Berapakah nilai rata-rata dari residual pada model regresi linear klasik?"""
-    raise 0.0
+    return 0.0
 
 def q11() -> float:
     """[Numeric] Jika naik 10 unit ketika X naik 2 unit, berapakah nilai slope ?"""
-    raise 5.0
+    return 5.0
 
 def q12() -> float:
     """[Numeric] Jika S = 40 dan S = 10, berapakah nilai estimasi slope ?"""
-    raise 4.0
+    return 4.0
 
